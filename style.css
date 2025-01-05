@@ -54,3 +54,7 @@ h3 {
     font-size: 30px;
     color: #1b120e;
 }
+
+footer, p {
+    font-size: 20px;
+}
